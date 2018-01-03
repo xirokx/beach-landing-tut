@@ -5,3 +5,10 @@ body{
   color: #926239;
   line-height: 1.6em;
 }
+
+#showcase{
+  background-image: url('../img/beach.jpg');
+  background-size: cover;
+  background-position: center;
+  height:100vh;
+}

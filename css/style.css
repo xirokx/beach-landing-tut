@@ -60,3 +60,20 @@ body{
   background: #f4f4f4;
   text-align: center;
 }
+
+#section-c{
+  display:flex;
+}
+
+#section-c div{
+  padding: 20px;
+}
+
+#section-c .box1, #section-c .box3{
+  background: #926239;
+  color: #fff;
+}
+
+#section-c .box2{
+  background: #f9f9f9;
+}

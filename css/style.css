@@ -54,3 +54,9 @@ body{
   color: #fff;
   text-align: center;
 }
+
+#section-b{
+  padding: 20px;
+  background: #f4f4f4;
+  text-align: center;
+}
